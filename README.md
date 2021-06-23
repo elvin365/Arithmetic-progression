@@ -1,2 +1,2 @@
 # Arithmetic-progression
-a1=1, a2=1.5, i>=3 and m ∈ N;  Find a<sub>m</sub>
+a<sub>1</sub>=1, a<sub>2</sub>=1.5, i>=3 and m ∈ N;  Find a<sub>m</sub>
