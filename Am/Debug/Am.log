@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\elvin\source\repos\am\am\source.cpp(14): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+c:\users\elvin\source\repos\am\am\source.cpp(28): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+  Am.vcxproj -> C:\Users\Elvin\source\repos\Am\Debug\Am.exe
